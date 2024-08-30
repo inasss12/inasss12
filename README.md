@@ -16,7 +16,3 @@
 
 
 
-## Repositories
-
-- **Chat App**: A real-time chat application. [View Repository](https://github.com/inasss12/chat-app)
-
